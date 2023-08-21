@@ -48,7 +48,7 @@ Output should look similar to this (assuming 7 was entered):
 
 As with all programs written in this course, maintainability is as important as functionality, so your code should be clear and easy to follow.  Make sure it follows the class coding conventions, and double check your code against this checklist before submitting.
 
-- PEP-8: [https://peps.python.org/pep-0008/](https://peps.python.org/pep-0008/)
+- PEP-8: [https://peps.python.org/pep-0008/](https://peps.python.org/pep-0008/) or in a stylized form [https://pep8.org/](https://pep8.org/)
 - Summary of PEP-8 for this class - coming soon
 - Program Checklist - coming soon
 
