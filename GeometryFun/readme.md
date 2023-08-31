@@ -4,7 +4,7 @@ The purpose of this assignment is to get some experience working with numeric da
 
 ## Overview
 
-Write a program named GeometryFun which prompts a user for a positive whole number and outputs the following:
+Write a program named Geometry_Fun which prompts a user for a positive whole number and outputs the following:
 - The perimeter and area of a square whose side length is the entered number
 - The radius, circumference, and area of a circle whose diameter is the entered number
 - The perimeter and area of an equilateral triangle whose side length is equal to the entered number.
