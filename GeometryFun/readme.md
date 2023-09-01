@@ -27,9 +27,9 @@ Output should look similar to this (assuming 7 was entered):
 
 &nbsp;&nbsp;&nbsp;&nbsp; *has a radius of 3.5*
 
-&nbsp;&nbsp;&nbsp;&nbsp; *has a circumference of 21.9912*
+&nbsp;&nbsp;&nbsp;&nbsp; *has a circumference of 21.991*
 
-&nbsp;&nbsp;&nbsp;&nbsp; *has an area of 38.4846*
+&nbsp;&nbsp;&nbsp;&nbsp; *has an area of 38.485*
 
 *An equilateral triangle with side length of 7*
 
