@@ -25,7 +25,7 @@ Output should look similar to this (assuming 7 was entered):
 
 *A circle with a diameter of 7*
 
-&nbsp;&nbsp;&nbsp;&nbsp; *has a radius of 3.5*
+&nbsp;&nbsp;&nbsp;&nbsp; *has a radius of 3.500*
 
 &nbsp;&nbsp;&nbsp;&nbsp; *has a circumference of 21.991*
 
