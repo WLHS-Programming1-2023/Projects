@@ -59,4 +59,4 @@ Note: Before attempting this portion, verify the rest of the program is correct,
 
 ## Submitting
 
-Upload your .py file into Google Classroom and also share a link to your GitHub repository
+Upload your .py file into Google Classroom along with your pseudocode
