@@ -13,7 +13,7 @@ The program will use the command line for its input and output (I/O).
 
 ## Sample Output
 
-Output should look similar to this (assuming 7 was entered):
+Output should look like this (assuming 7 was entered):
 
 *Please enter a whole number: 7*
 
