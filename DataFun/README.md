@@ -28,17 +28,26 @@ The second part of the program will do the following:
 Output should be well formatted and look similar to this:
 
 *What is your favorite integer? 42*
+
 &nbsp;&nbsp;&nbsp;&nbsp; *42 is a positive number,*
+
 &nbsp;&nbsp;&nbsp;&nbsp; *it is greater than 10,*
+
 &nbsp;&nbsp;&nbsp;&nbsp; *it is even,*
+
 &nbsp;&nbsp;&nbsp;&nbsp; *and it is not the atomic number of a noble gas.*
 
 
 *What is your favorite character? E*
+
 &nbsp;&nbsp;&nbsp;&nbsp;*E is an uppercase letter,*
+
 &nbsp;&nbsp;&nbsp;&nbsp; *it is a vowel,*
+
 &nbsp;&nbsp;&nbsp;&nbsp; *its ASCII value is 69,* 
+
 &nbsp;&nbsp;&nbsp;&nbsp; *and it is the 5th letter of the alphabet.*
+
 
 ## Technical Details
 - Name your program data_fun.py
