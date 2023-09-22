@@ -17,11 +17,11 @@ The first part of the program will do the following:
 - If the number is the atomic number of one of the 7 noble gases, it should print out the name of the noble gas corresponding to that atomic number.  If the number is NOT the atomic number of one of the 7 noble gases, it should print a message stating that.  (use match case for this)
 
 The second part of the program will do the following:
--Get the user’s favorite character.
--Print out if it’s a numeric digit, lowercase letter, or uppercase letter.
--If it’s a letter, prints out if it’s a vowel or not
--Print out the ascii value of the character (hint: research the ord() method)
--If it’s a letter, prints out where it is in the alphabet (A=1st, B=2nd, C=3rd, etc., and print the proper suffix (st, nd, rd, th, etc.) 
+- Get the user’s favorite character.
+- Print out if it’s a numeric digit, lowercase letter, or uppercase letter.
+- If it’s a letter, prints out if it’s a vowel or not
+- Print out the ascii value of the character (hint: research the ord() method)
+- If it’s a letter, prints out where it is in the alphabet (A=1st, B=2nd, C=3rd, etc., and print the proper suffix (st, nd, rd, th, etc.) 
 
 ## Sample Output
 
