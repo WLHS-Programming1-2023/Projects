@@ -1,6 +1,7 @@
 # Data Fun - Project 2
 
-The purpose of this assignment is to get some experience working with selection structures (if, else, elif, and match cases), as well as more experience working with simple data types.
+The purpose of this assignment is to get some experience working with selection structures (if, else, elif, and match cases), as well as more experience working with simple data types. You might need to do some
+reserach and some of the words are links so you can see the Wikipedia page.
 
 ## Overview
 
