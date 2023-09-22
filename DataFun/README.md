@@ -14,7 +14,7 @@ The first part of the program will do the following:
 - Print out if it’s positive or negative (consider 0 as positive)
 - Print out if it’s greater than 10, 100, or 1000 (only print the highest one it’s greater than).
 - Print out if it’s odd or even
-- If the number is the atomic number of one of the 7 noble gases, it should print out the name of the noble gas [https://en.wikipedia.org/wiki/Noble_gas](https://en.wikipedia.org/wiki/Noble_gas) corresponding to that atomic number.  If the number is NOT the atomic number of one of the 7 noble gases, it should print a message stating that.  (use match case for this)
+- If the number is the atomic number of one of the 7 noble gases, it should print out the name of the [noble gas](https://en.wikipedia.org/wiki/Noble_gas) corresponding to that atomic number.  If the number is NOT the atomic number of one of the 7 noble gases, it should print a message stating that.  (use match case for this)
 
 The second part of the program will do the following:
 - Get the user’s favorite character.
