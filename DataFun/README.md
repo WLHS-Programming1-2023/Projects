@@ -53,12 +53,13 @@ Output should be well formatted and look similar to this:
 
 ## Technical Details
 - Name your program data_fun.py
+- Include a block at the top of your code that has your name, date, and description of the what the program does.
 - You will be turning in pseudocode for this. It will be attached to the assignment as a separate Google Doc
 - You must use ifs, elses, and at least one match case
   
 As with all programs written in this course, maintainability is as important as functionality, so your code should be clear and easy to follow.  Make sure it follows the class coding conventions, and double check your code against this checklist before submitting.
 
-- PEP-8: [https://peps.python.org/pep-0008/](https://peps.python.org/pep-0008/) or in a stylized form [https://pep8.org/](https://pep8.org/)
+- PEP-8: [https://peps.python.org/pep-0008/](https://peps.python.org/pep-0008/) or in a stylized form [https://pep8.org/](https://pep8.org/). Note: you can just use Black Formatter in VS Code. Just press Ctrl-Shift-P then type format
 - Summary of PEP-8 for this class - [https://drive.google.com/file/d/10RmFHolsaymXKs7GqjXfYB-SAKWztONN/view?usp=sharing](https://drive.google.com/file/d/10RmFHolsaymXKs7GqjXfYB-SAKWztONN/view?usp=sharing)
 - Program Checklist -[https://docs.google.com/document/d/1Rsvjhs45SGpewxH4vXkY7YprbmMYWy8WuWBKh4ntp8w/edit?usp=sharing](https://docs.google.com/document/d/1Rsvjhs45SGpewxH4vXkY7YprbmMYWy8WuWBKh4ntp8w/edit?usp=sharing)
 
