@@ -22,7 +22,7 @@ The height will be the number entered for the box height.  The first row of the 
 
 ## Sample Output
 
-Output should look similar to this:
+Output should look *exactly* like this output:
 
 *Enter a box height(between 3 and 10): 2*
 
@@ -37,6 +37,7 @@ Output should look similar to this:
 *The integers from 5 to 12 are:*
 
 &nbsp;&nbsp;&nbsp;&nbsp; 5 6 7 8 9 10 11 12 
+
 *and the average of those numbers is 8.5.*
 ```
 ************
