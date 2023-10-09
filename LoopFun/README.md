@@ -14,8 +14,8 @@ Part 1 - Get two integer values (a box height and width) from the user.
 Part 2 - Use a for loop to print out all the numbers (on one line, space delimited) between the 
 height and width (inclusive), and then print the average (mean) of those numbers.  
 
-Part 3 - Print a hollow box made of * as shown in the example below. (this will require multiple
-loops, or one loop and use of some formatting functions). The width and height of the box should be the values entered by the user in part 1.
+Part 3 - Print a hollow box made of * as shown in the example below. (this could require multiple
+loops or one loop and use of some formatting functions). The width and height of the box should be the values entered by the user in part 1.
 
 Part 4 - Use nested loops to print out the triangular shape shown in the example below. The height will be the number entered for the box height.  The first row of the triangle is two asterisks, and each subsequent row should be two asterisks bigger than the previous row. (see example below)
 
@@ -53,12 +53,17 @@ Output should look *exactly* like this output:
 **********
 ```
 
+## Technical Details
 As with all programs written in this course, maintainability is as important as functionality, so your code should be clear and easy to follow. Make sure it follows the class coding conventions, and double check your code against this checklist before submitting.
 
 - PEP-8: [https://peps.python.org/pep-0008/](https://peps.python.org/pep-0008/)
 - Summary of PEP-8 for this class - coming soon
 - Program Checklist - coming soon
 
+## Extension - up to 5 pts extra credit
+Come up with 3 different ways to create the triangle, at least one that uses nested repetition structures. Each method must be substantially different and this is up to my discretion.
+
+## Submitting
 When complete, submit the following in Google Classroom
 - the pseudocode Google Doc file
 - the source code (loop_fun.py file)
