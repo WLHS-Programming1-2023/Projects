@@ -15,10 +15,9 @@ Part 2 - Use a for loop to print out all the numbers (on one line, space delimit
 height and width (inclusive), and then print the average (mean) of those numbers.  
 
 Part 3 - Print a hollow box made of * as shown in the example below. (this will require multiple
-loops, or one loop and use of some formatting functions covered in chapter 3)  The width and height of the box should be the values entered by the user in part 1.
+loops, or one loop and use of some formatting functions). The width and height of the box should be the values entered by the user in part 1.
 
-Part 4 - Use nested loops to print out the triangular shape shown in the example below. 
-The height will be the number entered for the box height.  The first row of the triangle is two asterisks, and each subsequent row should be two asterisks bigger than the previous row.  (see example below)
+Part 4 - Use nested loops to print out the triangular shape shown in the example below. The height will be the number entered for the box height.  The first row of the triangle is two asterisks, and each subsequent row should be two asterisks bigger than the previous row. (see example below)
 
 ## Sample Output
 
@@ -61,6 +60,6 @@ As with all programs written in this course, maintainability is as important as 
 - Program Checklist - coming soon
 
 When complete, submit the following in Google Classroom
-- the pseudocode txt file
-- the source code (loopFun.py file)
+- the pseudocode Google Doc file
+- the source code (loop_fun.py file)
 
