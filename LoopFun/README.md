@@ -35,8 +35,9 @@ Output should look similar to this:
 *That number is out of bounds: Try again: 12* 
 
 *The integers from 5 to 12 are:*
+
 &nbsp;&nbsp;&nbsp;&nbsp; 5 6 7 8 9 10 11 12 
-* and the average of those numbers is 8.5*
+*and the average of those numbers is 8.5.*
 ```
 ************
 *          *
