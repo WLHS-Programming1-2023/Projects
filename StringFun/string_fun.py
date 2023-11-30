@@ -3,7 +3,7 @@ Header block goes here
 
 """
 
-# string_input function
+# name_checker function
 
 
 # no_vowel function
