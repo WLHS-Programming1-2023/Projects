@@ -10,7 +10,7 @@ Write a function called name_checker that does the following:
 * Display a message saying whether or not the entered name matches your name
 * Return the entered name
 
-Write another function called no_vowels that takes in the guessed name as a string and does the following:
+Write another function called no_vowels that takes in at least the guessed name as a string and does the following:
 * Removes all vowels and does not destroy the original string
 * Returns the vowel-less name
 * Vowels must be completely removed, not replaced with blanks
