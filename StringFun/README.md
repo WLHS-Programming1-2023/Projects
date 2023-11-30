@@ -4,7 +4,7 @@
 The purpose of this assignment is to give you some practice working with and manipulating strings
 
 ## Details
-Write a function called string_fun that does the following:
+Write a function called name_checker that does the following:
 * Declare a variable that holds your full name (first and last) and initialize it to your name.
 * Prompt the user to guess your name (first last)
 * Display a message saying whether or not the entered name matches your name
