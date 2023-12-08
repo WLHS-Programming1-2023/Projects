@@ -4,21 +4,31 @@ import java.io.InputStreamReader;
 public class ArrayFun {
 
     public static void main(String[] args) throws IOException {
-        //use the UserInput method to get 10 integers from the user
-        
-
+        //use the getData method to get 10 integers from the user
+    
     }
 
-    public static int[] getData() throws IOException{
+    /**
+     * Gets space delimited integers from the user in the console. Exceptions will
+     * be thrown if the data is not an integer. If Return is pressed before n integers
+     * are entered, the remaining integers will be 0.
+     * 
+     * @param n - number of integers
+     * @return userNumbers - an n sized array composed of the user's input
+     * @throws IOException
+     */
+    public static int[] getData(int n) throws IOException{
 
-        int[] userNumbers = new int[10];
+        int[] userNumbers = new int[n];
         BufferedReader binput = new BufferedReader(new InputStreamReader(System.in));
         String[] strNums;
-        strNums = binput.readLine().split("\\s");
+        strNums = binput.readLine().split("\\s"); //space delimited
         for(int i=0; i<strNums.length; i++) {
             userNumbers[i] = Integer.parseInt(strNums[i]);
         }
         return userNumbers;
     }
 
+    //Your methods go here
+    
 }
