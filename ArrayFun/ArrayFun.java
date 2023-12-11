@@ -1,6 +1,12 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+
+/**
+* @author Brandon Smith
+* @date 12/8/23
+* @file
+
 public class ArrayFun {
 
     public static void main(String[] args) throws IOException {
