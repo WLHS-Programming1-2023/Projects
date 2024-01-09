@@ -4,23 +4,23 @@ The purpose of this assignment is to get some experience working with lists in P
 ## Overview
 
 Write a program (named list_fun) that gets 10 integers from the user, stores them in an array, and then prints out:
-* the entire array
-* the lowest value in the array
-* the highest value in the array
-* the number of odd numbers in the array
-* the sum of all the values in the array.
-* all the values that appear in the array more than once
+* the entire list
+* the lowest value in the list
+* the highest value in the list
+* the number of odd numbers in the list
+* the sum of all the values in the list.
+* all the values that appear in the list more than once
 
 
 ## Details
 You must write/use the following functions (you’ll need to determine the parameter(s) and return for each): 
-* get_data() - fills in given array with data entered by the user
-* print_data() - prints given array values to the screen (space delimited)
-* lowest_value() - returns the lowest value in the given array 
-* highestValue() - returns the highest value in the given array 
-* countOdds() - returns the number of odd numbers in the given array 
-* sum() - returns the sum of all the values in the given array
-* getDuplicateValues() - returns a list of all the values that appear multiple times in the input array
+* get_data() - fills in a list with data entered by the user
+* print_data() - prints given list values to the screen (space delimited)
+* lowest_value() - returns the lowest value in the given list 
+* highestValue() - returns the highest value in the given list 
+* countOdds() - returns the number of odd numbers in the given list 
+* sum() - returns the sum of all the values in the given list
+* getDuplicateValues() - returns a list of all the values that appear multiple times in the input list
 
 Notes: Output to the screen should only be done in main() and printData() (and the prompt in getData).
 
