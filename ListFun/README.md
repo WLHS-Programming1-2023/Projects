@@ -27,6 +27,7 @@ Notes: Output to the screen should only be done in main() and print_data() (and 
 ## Sample Output
 
 Output should be well formatted and look like this:
+
 Enter 10 integers: 
 42
 
