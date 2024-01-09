@@ -28,16 +28,26 @@ Notes: Output to the screen should only be done in main() and print_data() (and 
 
 Output should be well formatted and look like this:
 Enter 10 integers: 
-42 
--1 
-12 
+42
+
+-1
+
+12
+
 20
-99 
--3 
-42 
-88 
-99 
+
+99
+
+-3
+
+42
+
+88
+
+99
+
 100
+
 
 You entered: 42 -1 12 20 99 -3 42 88 99 100
 
