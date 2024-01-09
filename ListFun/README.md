@@ -17,12 +17,12 @@ You must write/use the following functions (you’ll need to determine the param
 * get_data() - fills in a list with data entered by the user
 * print_data() - prints given list values to the screen (space delimited)
 * lowest_value() - returns the lowest value in the given list 
-* highestValue() - returns the highest value in the given list 
-* countOdds() - returns the number of odd numbers in the given list 
+* highest_value() - returns the highest value in the given list 
+* count_odds() - returns the number of odd numbers in the given list 
 * sum() - returns the sum of all the values in the given list
-* getDuplicateValues() - returns a list of all the values that appear multiple times in the input list
+* get_duplicate_values() - returns a list of all the values that appear multiple times in the input list
 
-Notes: Output to the screen should only be done in main() and printData() (and the prompt in getData).
+Notes: Output to the screen should only be done in main() and print_data() (and the prompt in getData).
 
 ## Sample Output
 
@@ -32,8 +32,11 @@ Enter 10 integers (separated by a space): 42 -1 12 20 99 -3 42 88 99 100
 You entered: 42 -1 12 20 99 -3 42 88 99 100
 
 &nbsp;&nbsp;&nbsp;&nbsp; Lowest value:   -3	
+
 &nbsp;&nbsp;&nbsp;&nbsp; Highest value:  100
+
 &nbsp;&nbsp;&nbsp;&nbsp; # odd numbers:  4
+
 &nbsp;&nbsp;&nbsp;&nbsp; Sum of all:     498
 
 The following numbers appear multiple times: 42 99
