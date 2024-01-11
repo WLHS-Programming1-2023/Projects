@@ -3,7 +3,7 @@ The purpose of this assignment is to get some experience working with lists in P
 
 ## Overview
 
-Write a program (named list_fun) that gets 10 integers from the user, stores them in an array, and then prints out:
+Write a program (named list_fun) that gets 10 integers from the user, stores them in an list, and then prints out:
 * the entire list
 * the lowest value in the list
 * the highest value in the list
