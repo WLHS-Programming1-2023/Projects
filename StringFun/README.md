@@ -15,7 +15,7 @@ Write another function called no_vowels that takes in at least the guessed name 
 * Returns the vowel-less name
 * Vowels must be completely removed, not replaced with blanks
 
-Lastly, use f-strings to store the entered name with the text “ the Barbarian” at the end, storing the result into a well-named variable, then print the result.
+Lastly, use f-strings to store the entered name with the text “ the Barbarian” at the end, storing the result into a well-named variable, then print the result. This output should be printed regardless of what they type.
 
 ## Sample Output
 
