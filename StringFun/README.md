@@ -5,7 +5,8 @@ The purpose of this assignment is to give you some practice working with and man
 
 ## Details
 Write a function called name_checker that does the following:
-* Declare a variable that holds your full name (first and last) and initialize it to your name.
+* Do not change the original template code, just add to it. Your code to call the functions you write will go in the main function.
+* Declare a variable that holds your full name (first and last) and initialize it to your name. Name this variable real_name and store it in the main function.
 * Prompt the user to guess your name (first last)
 * Display a message saying whether or not the entered name matches your name
 * Return the entered name
