@@ -5,8 +5,8 @@ The purpose of this assignment is to get some experience working with lists in P
 
 Write a program (named list_fun) that gets 10 integers from the user, stores them in an list, and then prints out:
 * the entire list
-* the lowest value in the list
-* the highest value in the list
+* the lowest value in the list (don't use built-in functions)
+* the highest value in the list (don't use built-in functions)
 * the number of odd numbers in the list
 * the sum of all the values in the list.
 * all the values that appear in the list more than once
